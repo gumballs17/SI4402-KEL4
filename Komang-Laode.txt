@@ -4,6 +4,16 @@ Juara di hati
 Ketiga
 Mantap
 sip
+<<<<<<< HEAD
 
 Caesyerra
+=======
+Syerra
+Caesyerra
+dea
+Aebil Taskari Rusydi
+Dewaldi
+Dewaldi Saputra
+Aebil Taskari Rusydi
+>>>>>>> edae63a185a72e280568e9d40ffec76d1c17718d
 Yusak Surya Buwana
