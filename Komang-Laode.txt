@@ -3,7 +3,20 @@ Terpisah jarak dan waktu
 Juara di hati
 Ketiga
 Mantap
+vadela
+Vadela Risti
+Aebil Taskari Rusydi
 sip
+<<<<<<< HEAD
 
 Dewaldi Saputra
+=======
+Syerra
+Caesyerra
+dea
+Aebil Taskari Rusydi
+Dewaldi
+Dewaldi Saputra
+Aebil Taskari Rusydi
+>>>>>>> 8b362bcdfc86aace2cdc03e6067b07ce915c68d6
 Yusak Surya Buwana
