@@ -1,1 +1,1 @@
-Membuat halaman profile terdiri dari nama panjang, nama pendek, alamat dan jenis kelamin
+Halaman profile terdir dari nama, jenis kelamin dll
