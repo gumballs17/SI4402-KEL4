@@ -1,1 +1,1 @@
-Halaman terdiri dari nama, jenis kelamin dan alamat 
+Halaman terdiri dari nama, jenis kelamin dan alamat, tempat tanggal lahir
